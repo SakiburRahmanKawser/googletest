@@ -1,6 +1,7 @@
 # GoogleTest
 
-### Special Announcement for github
+### How to github work properly in the project
+Excellent Tanvirul Islam Sir
 
 #### Live at Head
 
@@ -25,6 +26,8 @@ GitHub Pages rather than directly in the repository.
 is now available.
 
 #### Coming Soon
+Git verson Controling given by Tanvirul Islam sir.
+Excellent All
 
 *   We are planning to take a dependency on
     [Abseil](https://github.com/abseil/abseil-cpp).
